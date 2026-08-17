@@ -4,21 +4,24 @@
 <tr>
 <td width="60%" align="justify" valign="middle">
 
-Hello everyone, my name is Van Trung Thanh, I am a student at Ho Chi Minh City Open University. My major is Information Technology with a focus on AI Software Engineering. Additionally, I’m interested in training and developing AI models.   
+Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City Open University. My major is Information Technology with a focus on Software Engineering and GenAI Engineering. Additionally, I’m interested in training and developing AI models.
 
-- Specialization in software engineer
-- Interest in automation coding using AI agents
-- Experience in DevOps
-- I burn out easily, but I handle my work quite well.
-- Updated Date: 2026-05-31 12:50 PM
+- Specialization in software engineer.
+- Preference in GenAI engineer.
+- Interest in DevOps and Agentic system.
+- Experience in Software Architecture, CI/CD and Cloud Computing.
+- I burn out easily, but I perseverance and handle my work quite well.
+- Updated Date: 2026-08-18 12:06 AM
 </td>
 <td width="40%" align="center">
-  <img src="https://media.tenor.com/7H9RgXfWIsgAAAAM/subaru.gif" width="75%" alt="Subaru">
+  <img src="https://i.ytimg.com/vi/V9PVRfjEBTI/maxresdefault.jpg" width="75%" alt="Bird of a feather">
 </td>
 </tr>
 </table>
 
 ## Experience
+
+*Note: The skills listed here represent about 80% proficiency and practical achievement, rather than 100% complete knowledge and deep understanding.*
 
 ### Programming Languages
 
@@ -26,6 +29,7 @@ Hello everyone, my name is Van Trung Thanh, I am a student at Ho Chi Minh City O
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -33,12 +37,16 @@ Hello everyone, my name is Van Trung Thanh, I am a student at Ho Chi Minh City O
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat-square\&logo=githubactions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat-square\&logo=gnu\&logoColor=white)
+![Magefile](https://img.shields.io/badge/Magefile-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 
 ### AI & Machine Learning
 
@@ -51,6 +59,7 @@ Hello everyone, my name is Van Trung Thanh, I am a student at Ho Chi Minh City O
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 

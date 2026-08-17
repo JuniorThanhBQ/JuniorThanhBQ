@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# NestJS
+.nestjs-dist
+.nestjs-swc
+
+# React / Vite
+# (dist is already covered above)
+
+# Turborepo
+.turbo
+
+# Vercel
+.vercel
+
+# Testing
+/coverage
+
+# Environments
+.env
+.env.*.local
+.env.test
+.env.production
+.env.development
+.env.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
