@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "ai-it-job-market-consultant",
+    "title": "AI IT Job Market Consultant",
+    "description": "An AI-powered platform for analyzing the IT job market, using Hierarchical Multi-Agent Systems and an adaptive crawler built with Crawlee.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1786036926/AIJ-modified_1_xzw6dh.png",
+    "tags": [
+      "Next.js",
+      "FastAPI",
+      "Gemini",
+      "Multi-Agent Systems",
+      "Crawlee",
+      "Celery",
+      "Docker"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/AI-IT-Job-Market-Consultant",
+    "liveUrl": "https://ai-job-market-consultant.example.com",
+    "featured": true,
+    "completedAt": "2026-08"
+  },
+  {
+    "id": "2",
+    "slug": "medical-booking-management-system",
+    "title": "Medical Booking Management System",
+    "description": "A real-time medical booking platform for managing appointments and healthcare services with a client-server architecture and automated deployment.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1765608632/truongdaihocmotphcm_1_vsqnp8.png",
+    "tags": [
+      "React",
+      "Flask RESTX",
+      "PostgreSQL",
+      "Docker",
+      "Docker Compose",
+      "CI/CD",
+      "Nginx"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/Medical-Booking-Management-System",
+    "liveUrl": "https://medical-booking-system.example.com",
+    "featured": true,
+    "completedAt": "2026-05"
+  },
+  {
+    "id": "3",
+    "slug": "vietnamese-software-engineer-jd-insights",
+    "title": "Vietnamese Software Engineer JD Insights",
+    "description": "A job market analysis platform that uses RAG and semantic search to extract insights from Vietnamese software engineer job descriptions.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1765608632/truongdaihocmotphcm_1_vsqnp8.png",
+    "tags": [
+      "React",
+      "FastAPI",
+      "RAG",
+      "Semantic Search",
+      "Vector Database",
+      "Docker",
+      "Job Search"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/Vietnamese-Software-Engineer-JD-Insights-Closed",
+    "liveUrl": "https://vietnamese-jd-insights.example.com",
+    "featured": false,
+    "completedAt": "2026-05"
+  }
+]

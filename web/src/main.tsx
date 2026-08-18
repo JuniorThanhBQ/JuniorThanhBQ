@@ -1,10 +1,15 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { RouterProvider } from 'react-router-dom'
+import { router } from './router'
+import { setupMockApi } from './configs/mockApi'
+import './i18n'
 import './index.css'
-import App from './App.tsx'
+
+setupMockApi()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </StrictMode>,
 )

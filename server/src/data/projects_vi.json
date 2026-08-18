@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "ai-it-job-market-consultant",
+    "title": "Tư Vấn Thị Trường Việc Làm IT Bằng AI",
+    "description": "Nền tảng ứng dụng AI để phân tích thị trường việc làm IT, sử dụng hệ thống đa tác nhân phân cấp và trình thu thập dữ liệu thích ứng xây dựng bằng Crawlee.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1786036926/AIJ-modified_1_xzw6dh.png",
+    "tags": [
+      "Next.js",
+      "FastAPI",
+      "Gemini",
+      "Hệ Thống Đa Tác Nhân",
+      "Crawlee",
+      "Celery",
+      "Docker"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/AI-IT-Job-Market-Consultant",
+    "liveUrl": "https://ai-job-market-consultant.example.com",
+    "featured": true,
+    "completedAt": "2026-08"
+  },
+  {
+    "id": "2",
+    "slug": "medical-booking-management-system",
+    "title": "Hệ Thống Quản Lý Đặt Lịch Khám Bệnh",
+    "description": "Nền tảng đặt lịch khám bệnh theo thời gian thực, hỗ trợ quản lý lịch hẹn và các dịch vụ y tế với kiến trúc client-server và quy trình triển khai tự động.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1765608632/truongdaihocmotphcm_1_vsqnp8.png",
+    "tags": [
+      "React",
+      "Flask RESTX",
+      "PostgreSQL",
+      "Docker",
+      "Docker Compose",
+      "CI/CD",
+      "Nginx"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/Medical-Booking-Management-System",
+    "liveUrl": "https://medical-booking-system.example.com",
+    "featured": true,
+    "completedAt": "2026-05"
+  },
+  {
+    "id": "3",
+    "slug": "vietnamese-software-engineer-jd-insights",
+    "title": "Phân Tích Tin Tuyển Dụng Kỹ Sư Phần Mềm Việt Nam",
+    "description": "Nền tảng phân tích thị trường việc làm sử dụng RAG và tìm kiếm ngữ nghĩa để khai thác thông tin từ các tin tuyển dụng kỹ sư phần mềm tại Việt Nam.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1765608632/truongdaihocmotphcm_1_vsqnp8.png",
+    "tags": [
+      "React",
+      "FastAPI",
+      "RAG",
+      "Tìm Kiếm Ngữ Nghĩa",
+      "Cơ Sở Dữ Liệu Vector",
+      "Docker",
+      "Tìm Kiếm Việc Làm"
+    ],
+    "githubUrl": "https://github.com/JuniorThanhBQ/Vietnamese-Software-Engineer-JD-Insights-Closed",
+    "liveUrl": "https://vietnamese-jd-insights.example.com",
+    "featured": false,
+    "completedAt": "2026-05"
+  }
+]
