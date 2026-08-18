@@ -3,18 +3,17 @@
 <table>
 <tr>
 <td width="60%" align="justify" valign="middle">
-
 Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City Open University. My major is Information Technology with a focus on Software Engineering and GenAI Engineering. Additionally, I’m interested in training and developing AI models.
 
-- Specialization in software engineer.
-- Preference in GenAI engineer.
-- Interest in DevOps and Agentic system.
-- Experience in Software Architecture, CI/CD and Cloud Computing.
-- I burn out easily, but I perseverance and handle my work quite well.
+- Specialization in software engineering.
+- Preference for GenAI engineering.
+- Interest in DevOps and agentic systems.
+- Experience in Software Architecture, CI/CD, and Cloud Computing.
+- I burn out easily, but I persevere and handle my work quite well.
 - Updated Date: 2026-08-18 12:06 AM
 </td>
 <td width="40%" align="center">
-  <img src="https://i.ytimg.com/vi/V9PVRfjEBTI/maxresdefault.jpg" width="75%" alt="Bird of a feather">
+  <img src="https://media.tenor.com/7H9RgXfWIsgAAAAM/subaru.gif" width="75%" alt="Subaru">
 </td>
 </tr>
 </table>
@@ -44,6 +43,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat-square\&logo=githubactions\&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat-square\&logo=gnu\&logoColor=white)
 ![Magefile](https://img.shields.io/badge/Magefile-00ADD8?style=flat-square\&logo=go\&logoColor=white)
@@ -51,6 +51,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 ### AI & Machine Learning
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square)
+![Agentic Coding](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)
 ![Claude AI Agents](https://img.shields.io/badge/Claude_AI_Agents-D97757?style=flat-square)
 ![AI Model Training](https://img.shields.io/badge/AI_Model_Training-00A67E?style=flat-square)
 
@@ -66,9 +67,9 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 ---
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=3000&color=6CB6FF&width=1000&repeat=true&lines=%22Nothing+is+impossible+unless+you+quit%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=3000&color=6CB6FF&width=1500&repeat=true&lines=I+want+AI+to+help+me+pursue+my+dreams+and+passions%2C+not+to+take+those+dreams+away+from+me." />
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=A5D6FF&width=400&height=20&repeat=true&lines=%E2%80%94+Inspired+by+my+colleague+Phong+%E2%80%94" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=A5D6FF&width=400&height=20&repeat=true&lines=%E2%80%94+Inspired+by+Joanna+Maciejewska+%E2%80%94" />
 </div>
