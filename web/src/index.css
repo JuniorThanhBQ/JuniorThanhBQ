@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-navy-800: #000080;
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Times New Roman', Times, serif;
+}
+
+body {
+  @apply font-sans text-base bg-white text-slate-900 dark:bg-slate-900 dark:text-white transition-colors duration-300;
+}
+
+@keyframes cssa-mesh-float {
+  0%   { background-position: 0% 0%; }
+  100% { background-position: 30% 20%; }
+}
+
+.mesh-bg {
+  background-color: #e8f8fd;
+  background-image:
+    radial-gradient(circle at 77% 79%, #3fa8d9 0%, transparent 55%),
+    radial-gradient(circle at 81% 82%, #ffffff 0%, transparent 55%);
+  background-size: 200% 200%;
+  animation: cssa-mesh-float 13s ease-in-out infinite alternate;
+}
+
+.dark .mesh-bg {
+  background-color: #0f172a;
+  background-image:
+    radial-gradient(circle at 79% 79%, #000080 0%, transparent 60%),
+    radial-gradient(circle at 67% 24%, #0ea5e9 0%, transparent 60%),
+    radial-gradient(circle at 64% 80%, #ffffff 0%, transparent 60%);
+  animation: cssa-mesh-float 10s ease-in-out infinite alternate;
+}
+
+@keyframes float-particle {
+  0% {
+    transform: translateY(90vh) translateX(0) scale(0.8);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.5;
+  }
+  90% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(-10vh) translateX(40px) scale(1.1);
+    opacity: 0;
+  }
+}
+
+.particle {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  animation: float-particle infinite linear;
+}
+
+.dark .footer-mesh-bg {
+  background-color: #020617;
+  background-image:
+    radial-gradient(circle at 79% 79%, #000050 0%, transparent 55%),
+    radial-gradient(circle at 67% 24%, #0369a1 0%, transparent 50%),
+    radial-gradient(circle at 64% 80%, #94a3b8 0%, transparent 45%);
+  background-size: 200% 200%;
+  animation: cssa-mesh-float 10s ease-in-out infinite alternate;
+}
+
+::-webkit-scrollbar {
+  width: 14px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0ea5e9;
+  border: 3px solid transparent;
+  border-radius: 9999px;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #38bdf8;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

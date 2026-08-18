@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "slug": "persisting-quality-in-agentic-workflows",
+    "title": "Duy trì chất lượng trong quy trình làm việc Agentic",
+    "excerpt": "Khám phá sự chuyển dịch mô hình hướng tới xây dựng phần mềm được hỗ trợ bởi AI, duy trì tính ổn định của hệ thống và sự cân bằng giữa tốc độ và kiến thức sâu.",
+    "content": "# Duy trì chất lượng trong quy trình làm việc Agentic\n\nPhát triển phần mềm đang phát triển nhanh chóng. Với sự trỗi dậy của các trợ lý AI agentic, các nhà phát triển có thể dựng các cấu trúc trong vài giây. Tuy nhiên, điều này đặt ra một thách thức mới: **làm thế nào để duy trì chất lượng phần mềm trong các vòng lặp tự động?**\n\n## Tiến trình giữa Tốc độ và Kiến thức\n\nAI có thể viết mã nhanh hơn bất kỳ con người nào, nhưng nó không tự động hiểu được sự đánh đổi của các quyết định kiến trúc. Nếu bạn phụ thuộc quá nhiều vào AI mà không có kiến thức nền tảng vững chắc, bạn có nguy cơ gặp các lỗi kiến trúc tinh vi, khó gỡ lỗi.\n\n> \"Tôi muốn AI giúp tôi theo đuổi ước mơ và đam mê, chứ không phải cướp đi những ước mơ đó khỏi tôi.\"\n\n## Các phương pháp hay nhất cho các cặp làm việc Agentic\n\n1. **Duy trì các cổng CI/CD nghiêm ngặt**: Không bao giờ để mã đi vào sản xuất mà không vượt qua các kiểm tra phân tích tĩnh tự động, quét bảo mật và kiểm thử đơn vị.\n2. **An toàn kiểu là tối quan trọng**: Sử dụng các ngôn ngữ có kiểu mạnh như TypeScript trên giao diện và phụ trợ để phát hiện các vấn đề tham chiếu ngay lập tức.\n3. **Monolith mô-đun hướng tên miền**: Bằng cách cấu trúc mã thành các ranh giới miền sạch sẽ, bạn giới hạn tác động của việc sửa đổi mã và giữ cho các ứng dụng dễ bảo trì.",
+    "coverImage": "https://res.cloudinary.com/dfolk8pz2/image/upload/v1785162818/ou-hcmc_giwmtx.png",
+    "category": "Software Engineering",
+    "publishedAt": "2026-08-18",
+    "readTime": "4 phút đọc"
+  }
+]
