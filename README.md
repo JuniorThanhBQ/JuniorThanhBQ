@@ -10,7 +10,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 - Interest in DevOps and agentic systems.
 - Experience in Software Architecture, CI/CD, and Cloud Computing.
 - I burn out easily, but I persevere and handle my work quite well.
-- My portfolio: [JuniorThanhBQ](juniorthanh-web.vercel.app)
+- My portfolio: [JuniorThanhBQ](https://juniorthanh-web.vercel.app/)
 - Updated Date: 2026-08-18 12:06 AM
 </td>
 <td width="40%" align="center">
