@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# Whitelist exceptions
+!README.md
+!.gitignore
