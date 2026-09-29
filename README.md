@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="Card.png">
+  <img src="https://res.cloudinary.com/dfolk8pz2/image/upload/v1790654205/White_and_Blue_Modern_Minimalist_Business_Card_1_b0r6ng.png">
 </div>
 
-#
+## Introduction
 
 <table>
 <tr>
