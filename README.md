@@ -17,7 +17,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 - Experience in Software Architecture, CI/CD, and Cloud Computing.
 - I burn out easily, but I persevere and handle my work quite well.
 - My portfolio: [JuniorThanhBQ](juniorthanh-web.vercel.app)
-- Updated Date: 2026-08-18 12:06 AM
+- Updated Date: 2026-10-02 8:00 PM
 </td>
 <td width="40%" align="center">
   <img src="https://media.tenor.com/7H9RgXfWIsgAAAAM/subaru.gif" width="75%" alt="Subaru">
@@ -88,7 +88,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 </details>
 
 <details>
-<summary>Some hobbies outside of the project?</summary>
+<summary>Some hobbies outside of my projects?</summary>
 
 > I’m still learning more about myself, so I don’t have many hobbies yet. If you have any interesting hobbies or activities, could you share them with me? I’d love to learn about new things and find something I enjoy.
 
