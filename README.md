@@ -95,6 +95,13 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 </details>
 
 <details>
+<summary>My way of working?</summary>
+
+> I'll keep trying until I simply can't anymore. What about you?
+
+</details>
+
+<details>
 <summary>My point of view?</summary>
 
 > 1. Freedom to develop skills in a healthy work environment.
