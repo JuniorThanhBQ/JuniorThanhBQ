@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dfolk8pz2/image/upload/v1792321154/tweenframe-com__slideshow_1_hcjryd.webp">
+  <img src="https://res.cloudinary.com/dfolk8pz2/image/upload/v1792321521/tweenframe-com__slideshow_2_fylwuy.webp">
 </div>
 
 <div align="justify">
@@ -97,7 +97,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 <details>
 <summary>My way of working?</summary>
 
-> I'll keep trying until I simply can't anymore. What about you?
+> I'll keep trying until I simply can't anymore, but I’ve recently started changing my way of working, like no hard OT for myself and more outdoor activities on the weekend. What do you think? Should we pay more attention to our careers or our mental/physical health?  
 
 </details>
 
