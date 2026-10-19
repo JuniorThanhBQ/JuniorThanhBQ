@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="60%" align="justify" valign="middle">
-Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City Open University. My major is information technology, with a focus on software engineering and generative AI (GenAI) engineering. Additionally, I’m interested in training and developing AI models.
+Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City Open University. My major is information technology, with a focus on software engineering and generative AI (GenAI) engineering. Additionally, I’m interested in training and developing AI models. A little more about me:
 
 - Specialization in software engineering.
 - A particular interest in GenAI, DevOps, and automation.
@@ -18,7 +18,7 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 - Last updated: 2026-10-19 7:18 PM
 </td>
 <td width="40%" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGdkaGVpODJ4dTZuYXVheGl1cHRrOTE0bGwxYzU0NWpidTN0NzA1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dvBgr7pA6FTJOMOALY/giphy.gif" width="85%" alt="Fox">
+  <img src="https://media.tenor.com/7H9RgXfWIsgAAAAM/subaru.gif" width="75%" alt="Subaru from Re:Zero">
 </td>
 </tr>
 </table>
