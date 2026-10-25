@@ -14,8 +14,8 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 - Specialization in software engineering.
 - A particular interest in GenAI, DevOps, and automation.
 - Experience in software architecture, CI/CD, and cloud computing.
-- I burn out easily, but I persevere and handle my work quite well.
-- Last updated: 2026-10-19 7:18 PM
+- I burn out quite easily, but I persevere and handle my work quite well.
+- Last updated: 2026-10-25 9:00 PM
 </td>
 <td width="40%" align="center">
   <img src="https://media.tenor.com/7H9RgXfWIsgAAAAM/subaru.gif" width="75%" alt="Subaru from Re:Zero">
@@ -33,16 +33,14 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
 
 ### B. Frameworks and Libraries
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
@@ -55,7 +53,14 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat\&logo=gnu\&logoColor=white)
 ![Magefile](https://img.shields.io/badge/Magefile-00ADD8?style=flat\&logo=go\&logoColor=white)
 
-### D. Other Tools and Skills
+### D. Cloud and Hosting Services
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+### E. Other Tools and Skills
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
@@ -64,9 +69,76 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat)
-![Agentic Coding](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)
+![Agentic Coding](https://img.shields.io/badge/Google%20Antigravity-4285F4?logo=google&logoColor=fff)
 
-## III. Frequently Asked Questions
+</div>
+
+## III. My Repository Tags
+
+```mermaid
+
+flowchart LR
+    START(( )) 
+    INIT["Initiation<br/>UPCOMING / Under Planning"]
+    DEV["Development and Maintenance<br/>LTS / In Development / ACTIVE"]
+    REVIEW["Review<br/>Under Review"]
+    CLOSED["Closure<br/>CLOSED / Public Archive"]
+    END(( ))
+
+    START --> INIT
+
+    INIT e1@--> DEV
+    INIT e2@--> | Ghost Repository | CLOSED
+    DEV e3@--> | Reassessment | REVIEW
+    REVIEW e4@--> | Resume | DEV
+    REVIEW e5@--> | Close | CLOSED
+    CLOSED e6@-->| Reconsider | REVIEW
+
+    CLOSED e6@--> |Permanently delete | END
+
+    e1@{ animation: slow }
+    e2@{ animation: slow }
+    e3@{ animation: slow }
+    e4@{ animation: slow }
+    e5@{ animation: slow }
+    e6@{ animation: slow }
+
+    class INIT initiation
+    class DEV development
+    class REVIEW review
+    class CLOSED closed
+
+    style START fill:#64748B,stroke:#64748B
+
+```
+
+> [!NOTE]
+>
+> Tags: [UPCOMING / Under Planning]
+> 
+> These are repositories currently under consideration for implementation or in the planning stages of development. These repositories follow one of two paths: they either enter the active development lifecycle or end up on my list of "ghost repositories".
+
+> [!IMPORTANT]
+> 
+> Tags: [LTS (Long-term support) / In Development / ACTIVE]
+>
+> These are repositories currently under active development or long-term maintenance. Activities such as Releases/Maintenance/Help Wanted/QA's remain available. These repositories may enter an "Under Review" phase when reassessment is needed.
+
+> [!WARNING]
+>
+> Tags: [Under Review]
+>
+> These are repositories currently being reassessed due to concerns about their future development or maintenance. These repositories follow one of two paths: they either return to the active development lifecycle, or end up on the list of closed repositories.
+
+> [!CAUTION]
+> 
+> Tags: [CLOSED / Public Archive]
+> 
+> These repositories have been closed almost permanently (unless they are placed into an "Under Review" phase). Activities such as Release/Maintenance/Help Wanted/QA's won't be available.
+
+<div align="justify">
+
+## IV. Frequently Asked Questions
 
 <details>
 <summary>Which university do I attend?</summary>
@@ -101,7 +173,6 @@ Hello everyone, my name is Van Trung Thanh. I am a student at Ho Chi Minh City O
 > 7. At the same time, people who perform well or contribute more should receive proper recognition and rewards. Their efforts should not be overlooked or dismissed.
 
 </details>
-
 
 ---
 
